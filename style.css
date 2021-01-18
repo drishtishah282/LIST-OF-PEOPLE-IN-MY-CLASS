@@ -1,0 +1,25 @@
+#sort_but{
+    display: none;
+    margin-top: 20px;
+    background-color: rgb(0, 255, 255);
+    color: black;
+    border: black;
+    border-width: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+}
+#sub_but{
+    margin-top: 20px;
+    background-color: rgb(0, 255, 255);
+    color: black;
+    border: black;
+    border-width: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+}
+body{
+    background: #FC5C7D;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #6A82FB, #FC5C7D);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #6A82FB, #FC5C7D); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
